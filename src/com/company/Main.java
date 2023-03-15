@@ -1,8 +1,6 @@
 package com.company;
 import GOL.Coord;
 import GOL.GameOfLife;
-import Tests.CellTest;
-import Tests.GameOfLifeTest;
 
 public class Main {
 
